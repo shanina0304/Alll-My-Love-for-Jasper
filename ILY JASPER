@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All My Love for Jasper</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to bottom right, #cfe9f8, #b3d0e7, #84b0d9);
+      color: #042f4b;
+      padding: 2rem;
+    }
+    header {
+      text-align: center;
+      padding: 1rem;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.2rem;
+    }
+    section {
+      max-width: 700px;
+      margin: 2rem auto;
+      background: #e6f2fa;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    section h2 {
+      color: #064273;
+    }
+    .letter {
+      white-space: pre-wrap;
+      font-size: 1.1rem;
+    }
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      font-size: 0.9rem;
+    }
+    audio {
+      display: block;
+      margin: 1rem auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>All My Love for Jasper</h1>
+    <p>Happy 2nd Monthsary, Palangga Ko</p>
+  </header>  <audio controls autoplay loop>
+    <source src="https://www.bensound.com/bensound-music/bensound-tomorrow.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>  <section>
+    <h2>My Letter to You</h2>
+    <p class="letter">
+Hello My Baby,Happy 2nd monthsary saton duwa and more months and years to come. Damo nako na look forward subong ky ara ka na. Thank you for everything nga naubra mo para sakon and sa family ko, na appreciate ko gid na tanan nga efforts mo palangga.
+
+I know damo pa ta agyan na challenges together, muna I'm praying gid na tani maski budlay kayanon ta. I'll try to be more patient maski puro lang ko arte sa life haha. My heart is so happy gid kay nag abot ka na sa life ko.
+
+Tani maski mag abot na sa point nga boring nako ky sulit sulit nalang routine ta duwa tanii di ka matak an sakon. I know kapila mo nani mabatia sakon and wala gid ko ya natak an mag remind na simo kung ano taka ka palangga kag kung ano kagid ka importante sakon.
+
+I will do everything gid palangga mapa feel lang simo kung ano taka ka love.
+
+Baby, I'm sorry gid ky super broke pako subong, I'm sorry I can't buy something for you palangga ko. </p>
+
+  </section>  <section>
+    <h2>Our Journey</h2>
+    <ul>
+      <li><strong>March 4:</strong> We officially became us</li>
+      <li><strong>May 4:</strong> Two months of love and growing closer</li>
+    </ul>
+  </section>  <section>
+    <h2>For the Future Us</h2>
+    <p>I believe in us, Jasper. No matter how hard or how far, my love will always find its way to you. Here's to many more months and years together—stronger, deeper, and more in love.</p>
+  </section>  <footer>
+    Made with all my love for you, Jasper.
+  </footer>
+</body>
+</html>
